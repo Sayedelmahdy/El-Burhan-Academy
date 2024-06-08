@@ -26,8 +26,7 @@ This repository showcases our contributions to the El-Burhan Academy Web Applica
 
 ## Key Responsibilities
 
-- Managed the overall project as the Project Manager.
-- Led the backend development team using ASP.NET Core.
+
 - Implemented authentication and authorization using JSON Web Tokens (JWT) to ensure secure access.
 - Developed and managed the database using SQL and Entity Framework.
 - Utilized SignalR for real-time web functionalities.
@@ -119,7 +118,7 @@ This project was developed by the Art of Coding team:
 
 Feel free to reach out to me for more information or any queries related to this project.
 
-- **Email**: [sayed.work223@gmail.com](mailto:sayed.work223@gmail.com)
-- **LinkedIn**: [Sayed Elmahdy](https://www.linkedin.com/in/sayed-elmahdy365/)
+- **Email**: [martinnadyy@gmail.com](mailto:martinnadyy@gmail.com )
+- **LinkedIn**: [Martin Nady](https://www.linkedin.com/in/martin-nady-9050b5212/)
 
 ---
