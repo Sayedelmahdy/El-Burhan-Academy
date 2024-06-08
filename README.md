@@ -25,7 +25,6 @@ This repository showcases my contributions to the El-Burhan Academy Web Applicat
 
 ## Key Responsibilities
 
-- Led the development of the backend using ASP.NET Core.
 - Implemented authentication and authorization using JSON Web Tokens (JWT) to ensure secure access.
 - Developed and managed the database using SQL and Entity Framework.
 - Utilized SignalR for real-time web functionalities.
@@ -105,8 +104,8 @@ Family accounts allow parents to monitor their children's progress and manage pa
 
 Feel free to reach out to me for more information or any queries related to this project.
 
-- **Email**: [sayed.work223@gmail.com ](mailto:sayed.work223@gmail.com )
-- **LinkedIn**: [Sayed Elmahdy](https://www.linkedin.com/in/sayed-elmahdy365/)
+- **Email**: [martinnadyy@gmail.com](mailto:martinnadyy@gmail.com )
+- **LinkedIn**: [Martin Nady](https://www.linkedin.com/in/martin-nady-9050b5212/)
 
 ---
 
