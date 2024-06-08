@@ -108,12 +108,12 @@ Family accounts allow parents to monitor their children's progress and manage pa
 This project was developed by the Art of Coding team:
 
 - Sayed Elmahdy (Project Manager and Backend Leader)
-- Martin Nady
-- Eslam Ahmed
-- Hazem Monsif
-- Mohamed AbdullSayed
+- Martin Nady (Backend member)
+- Eslam Ahmed (Backend member)
+- Hazem Monsif (Backend member)
+- Mohamed AbdullSayed (Backend-Ui/Ux member)
 - Seif Abdellah (Frontend Leader)
-- Ali Mohamed
+- Ali Mohamed (Frontend member)
 
 ## Contact
 
