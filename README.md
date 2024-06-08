@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases my contributions to the El-Burhan Academy Web Application, an educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
+This repository showcases our contributions to the El-Burhan Academy Web Application, an educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
 
 ## Table of Contents
 
@@ -21,15 +21,17 @@ This repository showcases my contributions to the El-Burhan Academy Web Applicat
   - [Admin Panel](#admin-panel-screenshots)
   - [Landing Page](#landing-page-screenshots)
 - [Achievements](#achievements)
+- [Team Members](#team-members)
 - [Contact](#contact)
 
 ## Key Responsibilities
+
 
 - Implemented authentication and authorization using JSON Web Tokens (JWT) to ensure secure access.
 - Developed and managed the database using SQL and Entity Framework.
 - Utilized SignalR for real-time web functionalities.
 - Employed Serilog for advanced logging and diagnostics.
-- Hosted the application on Microsoft Azure, ensuring scalability and reliability.
+- Coordinated hosting on Microsoft Azure, ensuring scalability and reliability.
 
 ## Technologies Used
 
@@ -100,6 +102,18 @@ Family accounts allow parents to monitor their children's progress and manage pa
 - Ensured data integrity and security through robust authentication mechanisms.
 - Maintained high application performance and reliability.
 
+## Team Members
+
+This project was developed by the Art of Coding team:
+
+- Sayed Elmahdy (Project Manager and Backend Leader)
+- Martin Nady
+- Eslam Ahmed
+- Hazem Monsif
+- Mohamed AbdullSayed
+- Seif Abdellah (Frontend Leader)
+- Ali Mohamed
+
 ## Contact
 
 Feel free to reach out to me for more information or any queries related to this project.
@@ -108,4 +122,3 @@ Feel free to reach out to me for more information or any queries related to this
 - **LinkedIn**: [Martin Nady](https://www.linkedin.com/in/martin-nady-9050b5212/)
 
 ---
-
